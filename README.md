@@ -1,2 +1,2 @@
-# VibeLoop
+# VibeLoop [WIP]
 Design vibe, code vibe.
